@@ -2,7 +2,8 @@
     "name": "MirraGames.SDK.CAS",
     "rootNamespace": "MirraGames.SDK.CAS",
     "references": [
-        "MirraGames.SDK.Common"
+        "MirraGames.SDK.Common",
+        "CleverAdsSolutions"
     ],
     "includePlatforms": [
         "Android",

@@ -1,4 +1,6 @@
-1. Install CAS using UPM with link: .
+1. Install CAS using UPM with link: https://docs.page/cleveradssolutions/docs/Unity.
+
+Git URL for UPM is: https://github.com/cleveradssolutions/CAS-Unity.git#4.5.4
 
 2. Install External Dependency Manager.
 
