@@ -44,6 +44,8 @@ namespace MirraGames.SDK.CAS
             // Preload ads.
             mediationManager.LoadAd(AdType.Interstitial);
             mediationManager.LoadAd(AdType.Rewarded);
+            // Initialization complete.
+            SetInitialized();
         }
 
         private IMediationManager GetAdManager()
